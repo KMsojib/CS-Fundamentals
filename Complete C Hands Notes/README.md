@@ -1,4 +1,4 @@
-# 🎓 C Programming Tutorial
+# 🎓 C Programming Notes
 
 This repository contains:
 - 📘 Concepts with explanations
